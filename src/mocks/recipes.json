@@ -1,0 +1,77 @@
+{
+    "categories": [
+      { "id": 1, "name": "Breakfast" },
+      { "id": 2, "name": "Lunch" },
+      { "id": 3, "name": "Desserts" }
+    ],
+    "recipes": [
+      {
+        "id": 1,
+        "category": "Breakfast",
+        "title": "Pancakes",
+        "description": "Fluffy pancakes with syrup and butter.",
+        "ingredients": [
+          "2 cups flour",
+          "2 tbsp sugar",
+          "1 tsp baking powder",
+          "1 tsp baking soda",
+          "2 cups milk",
+          "2 eggs",
+          "Butter for cooking"
+        ],
+        "instructions": [
+          "Mix dry ingredients in a bowl.",
+          "Whisk milk and eggs together.",
+          "Combine wet and dry ingredients.",
+          "Heat a skillet and add butter.",
+          "Pour batter and cook until golden on both sides."
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Lunch",
+        "title": "Caesar Salad",
+        "description": "Classic Caesar salad with homemade dressing.",
+        "ingredients": [
+          "Romaine lettuce",
+          "Croutons",
+          "Parmesan cheese",
+          "1/2 cup olive oil",
+          "1 egg yolk",
+          "1 tsp Dijon mustard",
+          "1 clove garlic, minced",
+          "Juice of 1 lemon"
+        ],
+        "instructions": [
+          "Wash and chop lettuce.",
+          "Mix olive oil, egg yolk, mustard, garlic, and lemon juice for dressing.",
+          "Toss lettuce with dressing, croutons, and Parmesan."
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Desserts",
+        "title": "Chocolate Cake",
+        "description": "Rich and moist chocolate cake.",
+        "ingredients": [
+          "2 cups flour",
+          "2 cups sugar",
+          "3/4 cup cocoa powder",
+          "2 tsp baking powder",
+          "1 tsp baking soda",
+          "1 cup milk",
+          "2 eggs",
+          "1/2 cup vegetable oil",
+          "2 tsp vanilla extract"
+        ],
+        "instructions": [
+          "Preheat oven to 350°F (175°C).",
+          "Mix dry ingredients in a bowl.",
+          "Add milk, eggs, oil, and vanilla. Mix well.",
+          "Pour batter into a greased pan.",
+          "Bake for 30-35 minutes."
+        ]
+      }
+    ]
+  }
+  
